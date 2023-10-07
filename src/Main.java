@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
         Power heroPower = new Power("Super Strength");
         Hero objectA = new Hero("Superman", heroPower, "Flight");
-        
+
         Power villain1Power = new Power("Mind Control");
         Villain objectB = new Villain("Lex Luthor", villain1Power, "Take over the world");
 
